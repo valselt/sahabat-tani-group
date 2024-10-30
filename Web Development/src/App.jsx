@@ -4,9 +4,13 @@ import viteLogo from "/vite.svg";
 import "./App.css";
 
 function App() {
-  const [count, setCount] = useState(0);
-
-  return <></>;
+  return (
+    <Routes>
+      <Route></Route>
+      <Route></Route>
+      <Route></Route>
+    </Routes>
+  );
 }
 
 export default App;
