@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['mite', 'spots', 'sunburn']
+
+roboflow:
+  workspace: massivesegmentation
+  project: anggrekku
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/massivesegmentation/anggrekku/dataset/3
