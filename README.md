@@ -9,8 +9,6 @@
   <img src="https://img.shields.io/badge/react-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/Express%20Js-%23000000?style=for-the-badge&logo=express">
 
-  
-<a href =""></a>
 </div>
 
 <h2>Content Overview 📑</h2>
@@ -46,6 +44,12 @@
 
 <h2>Team Overview 👥</h2>
 
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/company/sahabat-tani-group/">
+    <img src="https://i.imgur.com/efXeH2V.png" alt="Struktural Project">
+  </a>
+</div>
+</br>
 <div style="display: flex; align-items: center; gap: 8px;">
   <span><strong>Project Manager:</strong> Khenjy Johnelson</span>
   <a href="https://www.linkedin.com/in/khenjyjohnelson/">
@@ -56,9 +60,7 @@
   </a>
 </div>
 
-
-
-<h3>AAI 🤖</h3>
+<h3>AAI Division🤖</h3>
 
 <ol>
   <li>
@@ -83,16 +85,32 @@
       </a>
     </div>
   </li>
-  <li>
-    <div style="display: flex; align-items: center; gap: 8px;">
-      <span><strong>ML Engineer :</strong> Wisnu Saputra</span>
-      <a href="https://www.linkedin.com/in/wisnu-saputra/">
-          <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
-      </a>
-      <a href="https://github.com/wisnuwiry">
-          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
-      </a>
-    </div>
+  <li><strong>ML Engineer :</strong>
+    <ul>
+      <li>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span>Wisnu Saputra</span>
+            <a href="https://www.linkedin.com/in/wisnu-saputra/">
+                <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
+            </a>
+            <a href="https://github.com/wisnuwiry">
+                <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
+            </a>
+        </div>
+      </li>
+      <li>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span>Muhammad Ivan Aldorino</span>
+          <a href="https://www.linkedin.com/in/muhammadivanaldorino/">
+              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
+          </a>
+          <a href="https://github.com/valselt">
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
+          </a>
+        </div>
+      </li>
+    </ul>
+    
   </li>
   <li>
     <div style="display: flex; align-items: center; gap: 8px;">
@@ -118,7 +136,7 @@
   </li>
 </ol>
 
-<h3>Web Development 🌐</h3>
+<h3>Web Development Division 🌐</h3>
 
 <ol>
   <li>
@@ -130,43 +148,6 @@
       <a href="https://github.com">
           <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
       </a>
-  </li>
-  <li><strong>Hacker</strong>
-    <ul>
-      <li>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <span>Muhammad Haykal Islam Baskoro</span>
-          <a href="https://www.linkedin.com/in/muhammad-haykal-islam-baskoro-baskoro-7b6154250/">
-              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
-          </a>
-          <a href="https://github.com/Ekahh">
-              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
-          </a>
-        </div>
-      </li>
-      <li>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <span>Moch Achmar</span>
-          <a href="https://www.linkedin.com/in/moch-achmar/">
-              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
-          </a>
-          <a href="https://github.com/mochachmar">
-              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
-          </a>
-        </div>
-      </li>
-      <li>
-        <div style="display: flex; align-items: center; gap: 8px;">
-          <span>Detina Euis Nuraini</span>
-          <a href="https://www.linkedin.com/in/detinaeuisuraini/">
-              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
-          </a>
-          <a href="https://github.com/DetinaEuis">
-              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
-          </a>
-        </div>
-      </li>
-    </ul>
   </li>
   <li><strong>Hipster</strong>
     <ul>
@@ -205,6 +186,44 @@
       </li>
     </ul>
   </li>
+  <li><strong>Hacker</strong>
+    <ul>
+      <li>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span>Muhammad Haykal Islam Baskoro</span>
+          <a href="https://www.linkedin.com/in/muhammad-haykal-islam-baskoro-baskoro-7b6154250/">
+              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
+          </a>
+          <a href="https://github.com/Ekahh">
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
+          </a>
+        </div>
+      </li>
+      <li>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span>Moch Achmar</span>
+          <a href="https://www.linkedin.com/in/moch-achmar/">
+              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
+          </a>
+          <a href="https://github.com/mochachmar">
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
+          </a>
+        </div>
+      </li>
+      <li>
+        <div style="display: flex; align-items: center; gap: 8px;">
+          <span>Detina Euis Nuraini</span>
+          <a href="https://www.linkedin.com/in/detinaeuisuraini/">
+              <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="height: 24px;">
+          </a>
+          <a href="https://github.com/DetinaEuis">
+              <img src="https://skillicons.dev/icons?i=github" alt="GitHub" style="height: 24px;">
+          </a>
+        </div>
+      </li>
+    </ul>
+  </li>
+  
   <li>
     <div style="display: flex; align-items: center; gap: 8px;">
       <span><strong>Scrum Master :</strong> Masda Naswa</span>
