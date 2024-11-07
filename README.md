@@ -49,7 +49,9 @@
     <img src="https://i.imgur.com/efXeH2V.png" alt="Struktural Project">
   </a>
 </div>
+
 </br>
+
 <div style="display: flex; align-items: center; gap: 8px;">
   <span><strong>Project Manager:</strong> Khenjy Johnelson</span>
   <a href="https://www.linkedin.com/in/khenjyjohnelson/">
@@ -236,3 +238,12 @@
     </div>
   </li>
 </ol>
+
+</br>
+</br>
+
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/company/sahabat-tani-group/">
+    <img src="https://i.imgur.com/BAu0r90.png" alt="Struktural Project">
+  </a>
+</div>
