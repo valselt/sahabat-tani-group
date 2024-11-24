@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['karat_putih', 'kekurangan_mangan', 'virus_keriting']
+
+roboflow:
+  workspace: penyakit-bayam
+  project: penyakit-hama-bayam
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/penyakit-bayam/penyakit-hama-bayam/dataset/5
