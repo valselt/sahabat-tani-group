@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 6
+names: ['Bacterial_Spot', 'Blossom_end_rot', 'Cracking', 'Healthy', 'Spotted wilt Virus', 'Sunscald']
+
+roboflow:
+  workspace: kamatis-disease-detection
+  project: kamatis_detection
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/kamatis-disease-detection/kamatis_detection/dataset/5
